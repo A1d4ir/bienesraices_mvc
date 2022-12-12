@@ -1,0 +1,17 @@
+# Conexion a base de datos
+BD_NOMBRE=
+BD_USER=
+BD_PASS=
+BD_HOST=
+
+# Configuración de envio de correo
+EMAIL_HOST=
+EMAIL_PORT=
+EMAIL_USER=
+EMAIL_PASS=
+
+# URL de la api
+BACKEND_URL=
+
+# Palabra secreta para firmar el json web token
+JWT_SECRET=
